@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![AustynDing's GitHub stats](https://github-readme-stats-five-lovat-27.vercel.app/api?username=AustynDing&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-five-lovat-27.vercel.app/api/top-langs/?username=AustynDing&layout=compact&hide=html)]
+![Top Langs](https://github-readme-stats-five-lovat-27.vercel.app/api/top-langs/?username=AustynDing&layout=compact&hide=html)
