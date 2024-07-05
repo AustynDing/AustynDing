@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74076F&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=A+Software+Engineer+Learner+;Keep+Learning+Keep+Loving)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=74076F&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=65&lines=A+Software+Engineer+Learner+;Keep+Learning+Keep+Loving)
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning Online Code Editor and collaborative graphic editor
